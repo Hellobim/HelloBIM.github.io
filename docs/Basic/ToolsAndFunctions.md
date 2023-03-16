@@ -15,26 +15,26 @@
 ## 项目浏览器
 项目浏览器位于 Revit 屏幕的左下角，用作项目的目录。使用它来导航和打开模型的视图。您可以组织、排序、筛选和自定义项目浏览器以支持您的工作流。
 
-<img  src ="/basic/imgaes/ProjectBrowser.png"/>
+<img  src ="./imgaes/ProjectBrowser.png"/>
 
 ## 属性面板
 可以取消停靠“特性”选项板，使其浮动在绘图区域或桌面上的任意位置。还可以将其停靠到绘图窗口的任何边缘，或将其与“项目浏览器”组合以节省空间。
 
-<img  width = '400' height ='800'   src ="/basic/imgaes/PropertiesPalette.png"/>  
+<img  width = '400' height ='800'   src ="./imgaes/PropertiesPalette.png"/>  
 
 ## 视图可见性设置
 
 - 视图的可见性和图形设置图元和类别是否可见，以及显示方式（颜色、线宽、线型等）。
 
-<img  width = '800' height ='800'   src ="/basic/imgaes/VisibilityGraphics.png"/>  
+<img  width = '800' height ='800'   src ="./imgaes/VisibilityGraphics.png"/>  
 
 - 图元及类别可见性，在绘图区域中的图元上单击鼠标右键，上下文菜单
 
-<img  width = '500' height ='800'   src ="/basic/imgaes/VisibilityElement.png"/>  
+<img  width = '500' height ='800'   src ="./imgaes/VisibilityElement.png"/>  
 
 - 要快速访问影响当前视图的其他功能，请使用位于状态栏上方视图窗口底部的视图控制栏。
 
-<img  width = '600' height ='800'   src ="/basic/imgaes/VisibilitySettings.png"/>  
+<img  width = '600' height ='800'   src ="./imgaes/VisibilitySettings.png"/>  
 
  
 
@@ -48,10 +48,10 @@
 
 - 标高是一个平面，约束其他图元，（如屋顶、楼板和天花板）的参照。
 
-<img  width = '800' height ='800'   src ="/basic/imgaes/Levels.png"/>  
+<img  width = '800' height ='800'   src ="./imgaes/Levels.png"/>  
 
 ## 边界草图
 
 - 草图定义族的边界，例如地板、屋顶或天花板。还用于定义其他类型的几何形状，例如拉伸和开口。
  
-<img  width = '800' height ='800'   src ="/basic/imgaes/Sketching.png"/>  
+<img  width = '800' height ='800'   src ="./imgaes/Sketching.png"/>  

@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "你好，四建院!",
   description: "HelloBim",
-  base:"https://HelloBIM.github.io/",
+  //base:"https://HelloBIM.github.io/",
   head:[['link',{rel:'icon',href:'/public/logo.png'}]],
   themeConfig: {      
     logo: '/public/logo.png',
