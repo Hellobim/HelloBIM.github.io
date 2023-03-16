@@ -7,7 +7,7 @@
 
 ::: details 软件界面
 
-<img  src ="./imgaes/Modeling.png"/>
+<img  src ="/Modeling.png"/>
 
 ::: 
 
@@ -20,7 +20,7 @@
 
 ::: details 图元结构
 
-<img  src ="./imgaes/Elements.png"/>
+<img  src ="/Elements.png"/>
 
 ::: 
 
@@ -64,7 +64,7 @@ Revit 中的 3 种类型的族：系统族、可载入族和内建族。
 
 ::: details 项目浏览器 > 族   
 项目中所有族文件
-<img width = '250' height ='800' src ="./imgaes/Families.png"/>
+<img width = '250' height ='800' src ="/Families.png"/>
 ::: 
 
 

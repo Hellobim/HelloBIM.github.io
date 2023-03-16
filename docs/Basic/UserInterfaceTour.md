@@ -12,7 +12,7 @@
 - 了解如何组织用户界面。
 - 只需单击几下，您就可以更改界面以更好地支持您的工作方式。
 
-<img  width = '600' height ='800'   src ="./imgaes/HowTheInterfaceWorks.png"/>  
+<img  width = '600' height ='800'   src ="/HowTheInterfaceWorks.png"/>  
 
 ## 快捷键
 

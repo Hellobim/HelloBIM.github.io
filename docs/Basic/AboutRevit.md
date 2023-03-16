@@ -16,28 +16,30 @@ footer: false
 ## 设置样板文件
 将提供的样板文件按照此方式设置。
 
-<img width = '800' height ='800' src ="./imgaes/Basic05.png"/>
+
+
+<img width = '800' height ='800' src ="/Basic05.png"/>
 
 ##  修复自带族库
 
  控制面板 > 程序 >  卸载程序 > Revit Content Libraries 2019
 
-<img width = '500' height ='500' src ="./imgaes/Basic01.png"/>
+<img width = '500' height ='500' src ="/Basic01.png"/>
 
 ##  低版本文件升级
 首次打开低版本文件时需要升级,保存后不用再此升级。
 
-<img width = '350' height ='350' src ="./imgaes/Basic02.png"/>
+<img width = '350' height ='350' src ="/Basic02.png"/>
 
 ## 组织项目文件夹
 存放路径：按专业、楼栋子项，存放到指定文件夹。项目文件夹包括BIM基本情况表
 
-<img width = '350' height ='350' src ="./imgaes/Basic04.png"/>
+<img width = '350' height ='350' src ="/Basic04.png"/>
 
 ## 文件拓展名含义
 
 项目文件 *.rvt  |  族文件   *.rfa  | 样板文件 *.rte  | 族样板   *.rft  
 
-<img width = '250' height ='250' src ="./imgaes/Basic03.png"/>
+<img width = '250' height ='250' src ="/Basic03.png"/>
 
 
