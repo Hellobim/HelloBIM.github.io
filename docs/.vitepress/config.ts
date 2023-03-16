@@ -30,8 +30,7 @@ export default defineConfig({
       {
         text: '1. BIM设计基础',
         // collapsed: false,
-        items: [
-          config.ts
+        items: [          
           {
             text: '1.1 通用基础', collapsed: false, items: [
 
@@ -43,7 +42,6 @@ export default defineConfig({
 
             ]
           },
-
           {
             text: '1.2 建筑基础', collapsed: false, items: [
 
