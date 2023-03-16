@@ -3,10 +3,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "你好，四建院!",
   description: "HelloBim",
-  // head:[['link',{rel:'icon',href:'logo.png'}]],
-  base:"https://HelloBIM.github.io/",
+  base:"https://HelloBIM.github.io",
+  head:[['link',{rel:'icon',href:'logo.png'}]],
   themeConfig: {      
-    // logo: 'logo.png',
+    logo: 'logo.png',
     nav: [
       { text: '基础', link: 'Basic/KeyRevitConcepts' },
       { text: '建筑', link: 'Basic/Architecture/AddBuildingElements' },
