@@ -11,19 +11,19 @@ hero:
   actions:
     - theme: brand
       text: 基础
-      link: https://HelloBIM.github.io/Basic/
+      link: /Basic/Everyone/
     - theme: brand
       text: 建筑
-      link: https://HelloBIM.github.io/Architecture/
+      link: /Basic/Architecture/
     - theme: brand
       text: 结构
-      link: https://HelloBIM.github.io/Structural/
+      link: /Basic/Structural/
     - theme: brand
       text: 设备
-      link: https://HelloBIM.github.io/MEP/
+      link: /Basic/MEP/
     - theme: brand
       text: 应用
-      link: https://HelloBIM.github.io/Project/
+      link: /Project/
       
 features:
   - title: 基础
