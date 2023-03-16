@@ -1,5 +1,5 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
+
 layout: home
 
 hero:
@@ -11,19 +11,19 @@ hero:
   actions:
     - theme: brand
       text: 基础
-      link: /Basic/
+      link: https://HelloBIM.github.io/Basic/
     - theme: brand
       text: 建筑
-      link: /Architecture/
+      link: https://HelloBIM.github.io/Architecture/
     - theme: brand
       text: 结构
-      link: /Structural/
+      link: https://HelloBIM.github.io/Structural/
     - theme: brand
       text: 设备
-      link: /MEP/
+      link: https://HelloBIM.github.io/MEP/
     - theme: brand
       text: 应用
-      link: /Project/
+      link: https://HelloBIM.github.io/Project/
       
 features:
   - title: 基础
