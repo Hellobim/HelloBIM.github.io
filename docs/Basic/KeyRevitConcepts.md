@@ -62,7 +62,7 @@ Revit 中的 3 种类型的族：系统族、可载入族和内建族。
 
 
 
-::: details 项目浏览器 > 族   
+::: details 项目浏览器 > 族类别    
 项目中所有族文件
 <img width = '250' height ='800' src ="/Families.png"/>
 ::: 
